@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fb5c1a2e5f45141a21bfbdb337b70a, type: 3}
+  m_Name: Sounds Collection SO
+  m_EditorClassIdentifier: 
+  WindMusic:
+  - {fileID: 11400000, guid: b4ab22000c72cb24ab84af78a5622f04, type: 2}
+  ForrestMusic:
+  - {fileID: 11400000, guid: 137d73ad6e1fc994784b1ad49eb65b5d, type: 2}
+  DayMusic:
+  - {fileID: 11400000, guid: 52748abcd885ff54488ba7e4ac04013e, type: 2}
+  NightMusic:
+  - {fileID: 11400000, guid: 52f06865298dee843bcde2f4123894e7, type: 2}
+  MainMenuMusic:
+  - {fileID: 11400000, guid: 666eb95e1978dff488b4d0103904fa24, type: 2}
+  EndOfGameMusic:
+  - {fileID: 11400000, guid: 2c5d8aaa610dc8641b30d2fc991da7ab, type: 2}
+  DashSFX:
+  - {fileID: 11400000, guid: 9862b71b2f5939c40b062d921c6a2d6e, type: 2}
+  PickUpSFX:
+  - {fileID: 11400000, guid: 3894a6286a7c48b42b72e115625c79ff, type: 2}
+  PowerUpShieldSFX:
+  - {fileID: 11400000, guid: 7800e19832fb3874392b7b7a8b0caf4f, type: 2}
+  PowerUpRaySFX:
+  - {fileID: 11400000, guid: e0fdbf03634e987488cf40762ac674c3, type: 2}
+  CollisionTreeSFX:
+  - {fileID: 11400000, guid: 2f5ced3c3da625946951881cf7948c13, type: 2}
+  - {fileID: 11400000, guid: 58ca94e0b07f9a64ab9efc8669e7b1eb, type: 2}
+  CollisionEvilSFX:
+  - {fileID: 11400000, guid: 0a15285403b54364a879072859e84bf2, type: 2}
+  - {fileID: 11400000, guid: d9b332912343f21488f1f15f6af2f1d6, type: 2}
+  - {fileID: 11400000, guid: f8ab2382b5b4e9a4297c5052a87e420e, type: 2}
+  - {fileID: 11400000, guid: 3a08725433325a249bd21729b2664a2b, type: 2}
+  HittingEvilSFX:
+  - {fileID: 11400000, guid: b46568882bf7f164f9a2f76f2b90fa35, type: 2}
+  RayHittingTreeSFX:
+  - {fileID: 11400000, guid: af8ecdea453e6b64c9b9a959eb1d6071, type: 2}
+  - {fileID: 11400000, guid: f7fa56c993c8777489f10158ec780c1c, type: 2}
